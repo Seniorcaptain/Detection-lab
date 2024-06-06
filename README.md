@@ -43,6 +43,15 @@ FIREWALL DROPING TO CREATE HONEYPOT![dropingfirewall](https://github.com/Seniorc
 GEOLOCATION LOGS IN AZURE ![geodata](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/ca1535ef-7a3a-4613-b465-3584f2bb2aff)
 EVENT LOGS FROM AZURE![Eventcreator](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/43b15497-ef75-43a0-ac56-eb9e40416146)
 WEbcrwaller ON ELASTIC![webcrawler](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/17b54161-19be-41e9-90d4-c7205ce8c95a)
+AZURE WINDOWS INTERGRATION ![Windows Int Elastic](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/7da3cca1-eb71-47b6-bac4-77cf2c91298c)
+ADDING AGENT FROM ELASTIC TO AZURE ![AddingAGent](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/4a50291a-4d66-4260-9771-29b95d79e572)
+AZURE DEPLOYMENT ![Azure Deployment](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/58f1c561-70bb-480f-8b06-16873966ba50)
+ELASTIC SECURE ![ElasticSecure](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/dd7eb577-41bd-43bd-a8c8-162a9120caa1)
+Terminal Adding Agent ![Agent Addedon AzureVM](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/d1832ed5-e3a8-43e4-8a65-caac58730b0e)
+AGENT ADDED SUCCESFULLY![Agentaddedsuccesfully](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/a71e4a26-e1f9-451c-9df7-4acccd98879f)
+INCOMING LOGS FROM AZURE![incominglogs](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/b89f3cde-cc92-4cd4-be79-317f620049c2)
+ENDPOINTS ON ELASTIC![Endpoints](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/ba7ecade-2893-4e88-8f4a-7394116c2957)
+ENDPOINT EVENTS ![EndpointsEvents](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/e5ef09fa-f0b3-494e-bf6b-7f2db8786e4f)
 
 
 
