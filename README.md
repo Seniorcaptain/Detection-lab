@@ -1,5 +1,5 @@
 # Detection-lab
-# PROJECTNAME
+# CYBERSECURITY SOC PROJECTS
 
 ## Objective
 
