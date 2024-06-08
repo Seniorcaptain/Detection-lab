@@ -52,6 +52,9 @@ AGENT ADDED SUCCESFULLY![Agentaddedsuccesfully](https://github.com/Seniorcaptain
 INCOMING LOGS FROM AZURE![incominglogs](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/b89f3cde-cc92-4cd4-be79-317f620049c2)
 ENDPOINTS ON ELASTIC![Endpoints](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/ba7ecade-2893-4e88-8f4a-7394116c2957)
 ENDPOINT EVENTS ![EndpointsEvents](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/e5ef09fa-f0b3-494e-bf6b-7f2db8786e4f)
+Logs Connection On Sentinel![COnnecting Logs Via Sentinel](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/c9ffbfc7-06cf-4c79-a464-5694184112ed)
+Data Collectors ![Data Collectors](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/2d5f5882-cd1e-477c-8b54-c91a98d82644)
+
 
 
 
