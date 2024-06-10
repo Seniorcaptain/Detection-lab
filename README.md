@@ -54,6 +54,13 @@ ENDPOINTS ON ELASTIC![Endpoints](https://github.com/Seniorcaptain/Detection-lab/
 ENDPOINT EVENTS ![EndpointsEvents](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/e5ef09fa-f0b3-494e-bf6b-7f2db8786e4f)
 Logs Connection On Sentinel![COnnecting Logs Via Sentinel](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/c9ffbfc7-06cf-4c79-a464-5694184112ed)
 Data Collectors ![Data Collectors](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/2d5f5882-cd1e-477c-8b54-c91a98d82644)
+DATA COLLECTORS ![Data Collectors](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/93aee948-9681-44b9-80fa-8fc939472d21)
+WINDOWS COLLECTION![WindowsCollection Logs](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/f8bdf725-42e8-442e-827c-10f200534d55)
+AGENTS MANAGEMENT ![Agents Management](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/2b72cfe4-3525-4fa4-967b-82f565737019)
+WINDOWS SECURITY LOGS SETUP![Windows SecurityEvents](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/d729500c-411f-451d-a82b-29ff2eab9cbc)
+WINDOWS RILES DONE BY AMA![WindowrulesDone](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/073dec76-e6fd-4831-83dc-8ab786f6d9f2)
+SENTINEL FLAG RULES ANALYSIS![Sentinel Analyst](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/19f45e43-62a2-4aeb-8917-4d359812377e)
+
 
 
 
