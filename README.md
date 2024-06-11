@@ -60,6 +60,7 @@ AGENTS MANAGEMENT ![Agents Management](https://github.com/Seniorcaptain/Detectio
 WINDOWS SECURITY LOGS SETUP![Windows SecurityEvents](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/d729500c-411f-451d-a82b-29ff2eab9cbc)
 WINDOWS RILES DONE BY AMA![WindowrulesDone](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/073dec76-e6fd-4831-83dc-8ab786f6d9f2)
 SENTINEL FLAG RULES ANALYSIS![Sentinel Analyst](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/19f45e43-62a2-4aeb-8917-4d359812377e)
+SENTINEL AUTOMATION ![Screenshot_2024-06-11_10_54_40](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/597db174-222f-4717-b268-b275cb0a7b3f)
 
 
 
