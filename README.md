@@ -57,6 +57,20 @@ WINDOWS SECURITY LOGS SETUP![Windows SecurityEvents](https://github.com/Seniorca
 WINDOWS RILES DONE BY AMA![WindowrulesDone](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/073dec76-e6fd-4831-83dc-8ab786f6d9f2)
 SENTINEL FLAG RULES ANALYSIS![Sentinel Analyst](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/19f45e43-62a2-4aeb-8917-4d359812377e)
 SENTINEL AUTOMATION ![Screenshot_2024-06-11_10_54_40](https://github.com/Seniorcaptain/Detection-lab/assets/36276653/597db174-222f-4717-b268-b275cb0a7b3f)
+This script does the following:
+It prompts you to enter the target IP or hostname.
+It creates a directory called "nmap_scans" to store the scan results.
+It performs six different types of Nmap scans:
+Version and default script scan
+All port versions scan
+UDP scan on common ports
+SYN scan with version detection and OS fingerprinting
+Vulnerability scan using Nmap scripts
+Aggressive scan
+Each scan result is saved to a file with a timestamp and scan type in the filename.
+To use this script:
+![Screenshot_2024-07-17_12_12_31](https://github.com/user-attachments/assets/3d1d073e-34fe-483c-8b79-856702394b2b)
+
 
 
 
