@@ -1,0 +1,101 @@
+To help you document this for your GitHub repository, I have organized the report into a structured Markdown format suitable for a `README.md` or a dedicated `SECURITY.md` file.
+
+You can copy and paste the content below directly into your repository.
+
+---
+
+# VulnBank Penetration Test Report
+
+## Overview
+
+This repository contains the findings from a professional penetration test conducted on the **VulnBank** application. The assessment covered the web application (vulnbank.org), supporting REST APIs, and the Android mobile application.
+
+* **Assessment Date:** February 23, 2026
+
+
+* **Overall Risk Rating:** **CRITICAL**
+
+* **Assessment Scope:** Web Application, REST API, and Android APK
+
+
+
+---
+
+## 1. Vulnerability Summary
+
+### Web Application & API
+
+| ID | Vulnerability | Severity |
+| --- | --- | --- |
+| **WEB-001** | SQL Injection: Login Page | Critical |
+| **WEB-002** | Brute Force: Weak Credentials | Critical |
+| **WEB-003** | Broken Password Reset (API Version Downgrade) | Critical |
+| **WEB-004** | JWT Token Manipulation | High |
+| **WEB-005** | No API Rate Limiting | High |
+| **WEB-006** | Stored Cross-Site Scripting (XSS) | High |
+| **WEB-007** | Security Misconfiguration: Debug Info Exposure | Medium |
+| **WEB-008** | Exposed API Documentation | Medium |
+
+### Mobile Application (Android APK)
+
+| ID | Vulnerability | Severity |
+| --- | --- | --- |
+| **MOB-001** | Hardcoded Credentials in Android Manifest | High |
+| **MOB-002** | Debug Endpoint Exposed in Manifest | High |
+| **MOB-003** | Insecure Data Storage: SharedPreferences | Medium |
+| **MOB-004** | Cleartext HTTP Traffic | Low |
+| **MOB-005** | Weak Application Signing (Debug Certificate) | Low |
+| **MOB-006** | Insecure Hashing Algorithm (SHA-1) | Low |
+
+---
+
+## 2. Methodology
+
+The assessment followed industry-standard frameworks to ensure comprehensive coverage:
+
+* **OWASP Testing Guide v4.2**
+
+* **OWASP Mobile Security Testing Guide (MSTG)**
+
+
+**Tools utilized during the assessment included:** Burp Suite Professional, OWASP ZAP 2.14, GoBuster, SQLMap, MobSF 3.9, and jadx-gui.
+
+---
+
+## 3. Remediation Roadmap
+
+### Priority Actions (P0 - Immediate)
+
+* **WEB-001:** Parameterize all SQL queries to prevent injection.
+
+
+* **WEB-002:** Enforce strong password policies and implement account lockout mechanisms.
+
+
+* **WEB-003:** Immediately decommission legacy API endpoints (/api/v1/ and /api/v2/).
+
+
+* **MOB-001:** Remove hardcoded credentials; rotate secrets and utilize a secure vault.
+
+
+
+---
+
+## 4. References & Standards
+
+* [OWASP Top 10 2021](https://owasp.org/Top10/)
+
+* [OWASP Mobile Top 10 2023](https://owasp.org/www-project-mobile-top-10/)
+
+* [OWASP API Security Top 10 2023](https://owasp.org/www-project-api-security/)
+
+
+---
+
+### Guidance for your GitHub Repository
+
+1. **Sensitive Data:** Since this document identifies actual vulnerabilities and hardcoded credentials, **do not upload the original full report if it contains specific, private, or real-world credentials.** Only include the technical findings and remediation steps as shown above.
+2. **File Placement:** Create a folder named `/docs` or `/security` in your repository and save this as `PEN_TEST_SUMMARY.md`.
+3. **Documentation:** If you are using this for lab work, consider linking these IDs (e.g., `WEB-001`) to specific pull requests or issues in your GitHub repository to track your progress as you fix these vulnerabilities.
+
+Would you like me to help you draft a specific `Issue` template for your GitHub repository to track the remediation of these vulnerabilities?
